@@ -10,4 +10,4 @@ The project offers its users two options, either to remove everyone from the scr
 
 ## Live Demo
 
-The project is hosted on [Netlify](https://www.netlify.com/). The url of the live demo is at this (link)[https://]
+The project is hosted on [Netlify](https://www.netlify.com/). The url of the live demo is at this [link](https://birthday-listing-reminder.netlify.app/)
