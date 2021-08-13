@@ -1,0 +1,26 @@
+.people_list {
+  list-style: none;
+  max-width: 72rem;
+  margin: 0 auto;
+  padding: 3rem 0;
+}
+
+.button {
+  cursor: pointer;
+  display: block;
+  width: 100%;
+  border: none;
+  outline: none;
+  padding: 2rem;
+  text-align: center;
+  background-color: var(--primary-color);
+  color: var(--white-color);
+  font-size: 1.6rem;
+  border-radius: 1rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, .2);
+  transition: all 0.3s;
+}
+
+.button:hover {
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, .2);
+}
